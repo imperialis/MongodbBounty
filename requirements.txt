@@ -15,6 +15,7 @@ llama-index-llms-huggingface
 llama-index-embeddings-huggingface
 llama-index-vector-stores-mongodb
 llama_index.llms.replicate
+llama-index-llms-llama-api
 
 ## PDF handling
 PyPDF2
