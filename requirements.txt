@@ -9,6 +9,11 @@ transformers
 torch
 sentence_transformers
 llama-cpp-python
+llama-index
+replicate
+llama-index-llms-huggingface
+llama-index-embeddings-huggingface
+llama-index-vector-stores-mongodb
 
 ## PDF handling
 PyPDF2
