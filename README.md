@@ -28,8 +28,7 @@ The core architecture of the project consists of several key components:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/interactive-learning-assistant.git
-   cd interactive-learning-assistant
+   git clone https://github.com/imperialis/MongodbBounty.git
    ```
 
 2. **Install Dependencies**
@@ -65,6 +64,7 @@ The core architecture of the project consists of several key components:
    - Create a new app by selecting your repository and specifying the branch and the `app.py` file.
    - Set up your secrets in the Streamlit app settings.
    - Deploy your app.
+-OR visit https://appbounty-e3dqyvwaeyyf289ck9luth.streamlit.app/
 
 ## Requirements
 
