@@ -5,6 +5,7 @@ streamlit
 ## LLMs / embeddings
 openai
 llama-index
+llama_index.llms.replicate
 transformers
 torch
 sentence_transformers
