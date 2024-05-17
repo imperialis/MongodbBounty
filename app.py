@@ -54,7 +54,7 @@ st.write("Atlas client initialized")
 embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5")
 
 # Initialize Replicate model
-os.environ["REPLICATE_API_TOKEN"] = config.get("REPLICATE_API_TOKEN")
+os.environ["REPLICATE_API_TOKEN"] = config.get('REPLICATE_API_TOKEN')
 llm = Replicate(model="a16z-infra/llama13b-v2-chat:df7690f1994d94e96ad9d568eac121aecf50684a0b0963b25a41cc40061269e5")
 
 # Initialize ServiceContext
